@@ -202,7 +202,7 @@ function Book(title, author) {
 /* [Функция]: Что делает ваша функция */
 ```
 
-API function example:
+Пример комментирования html кода:
 
 ```html
 <!-- [Секция: example]: Описание секции -->
